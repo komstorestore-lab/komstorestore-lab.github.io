@@ -1,0 +1,29 @@
+{
+ "name": "Interiorismo",
+ "short_name": "Interiorismo",
+ "description": "Planos, 3D, catálogo y presupuestos de interiorismo. Tus datos se guardan en tu móvil.",
+ "lang": "es",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "background_color": "#f6f3ee",
+ "theme_color": "#2f2924",
+ "icons": [
+  {
+   "src": "/icono-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icono-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/icono-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

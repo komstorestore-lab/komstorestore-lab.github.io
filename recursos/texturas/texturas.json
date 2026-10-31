@@ -1,0 +1,178 @@
+{
+ "texturas": {
+  "madera-clara": {
+   "id": "laminate_floor_02",
+   "escala": 1.6,
+   "color": "recursos/texturas/laminate_floor_02_color.jpg",
+   "normal": "recursos/texturas/laminate_floor_02_normal.jpg",
+   "rugosidad": "recursos/texturas/laminate_floor_02_rugosidad.jpg"
+  },
+  "roble": {
+   "id": "wood_floor",
+   "escala": 2,
+   "color": "recursos/texturas/wood_floor_color.jpg",
+   "normal": "recursos/texturas/wood_floor_normal.jpg",
+   "rugosidad": "recursos/texturas/wood_floor_rugosidad.jpg"
+  },
+  "madera-oscura": {
+   "id": "dark_wooden_planks",
+   "escala": 2,
+   "color": "recursos/texturas/dark_wooden_planks_color.jpg",
+   "normal": "recursos/texturas/dark_wooden_planks_normal.jpg",
+   "rugosidad": "recursos/texturas/dark_wooden_planks_rugosidad.jpg"
+  },
+  "espiga": {
+   "id": "herringbone_parquet",
+   "escala": 1.6,
+   "color": "recursos/texturas/herringbone_parquet_color.jpg",
+   "normal": "recursos/texturas/herringbone_parquet_normal.jpg",
+   "rugosidad": "recursos/texturas/herringbone_parquet_rugosidad.jpg"
+  },
+  "parquet": {
+   "id": "rectangular_parquet",
+   "escala": 1.5,
+   "color": "recursos/texturas/rectangular_parquet_color.jpg",
+   "normal": "recursos/texturas/rectangular_parquet_normal.jpg",
+   "rugosidad": "recursos/texturas/rectangular_parquet_rugosidad.jpg"
+  },
+  "porcelanico": {
+   "id": "floor_tiles_06",
+   "escala": 1.2,
+   "color": "recursos/texturas/floor_tiles_06_color.jpg",
+   "normal": "recursos/texturas/floor_tiles_06_normal.jpg",
+   "rugosidad": "recursos/texturas/floor_tiles_06_rugosidad.jpg"
+  },
+  "gres-blanco": {
+   "id": "long_white_tiles",
+   "escala": 1.2,
+   "color": "recursos/texturas/long_white_tiles_color.jpg",
+   "normal": "recursos/texturas/long_white_tiles_normal.jpg",
+   "rugosidad": "recursos/texturas/long_white_tiles_rugosidad.jpg"
+  },
+  "marmol": {
+   "id": "marble_01",
+   "escala": 1.5,
+   "color": "recursos/texturas/marble_01_color.jpg",
+   "normal": "recursos/texturas/marble_01_normal.jpg",
+   "rugosidad": "recursos/texturas/marble_01_rugosidad.jpg"
+  },
+  "barro": {
+   "id": "terracotta_floor_tiles",
+   "escala": 1.2,
+   "color": "recursos/texturas/terracotta_floor_tiles_color.jpg",
+   "normal": "recursos/texturas/terracotta_floor_tiles_normal.jpg",
+   "rugosidad": "recursos/texturas/terracotta_floor_tiles_rugosidad.jpg"
+  },
+  "microcemento": {
+   "id": "smooth_concrete_floor",
+   "escala": 3,
+   "color": "recursos/texturas/smooth_concrete_floor_color.jpg",
+   "normal": "recursos/texturas/smooth_concrete_floor_normal.jpg",
+   "rugosidad": "recursos/texturas/smooth_concrete_floor_rugosidad.jpg"
+  },
+  "terrazo": {
+   "id": "terrazzo_tiles",
+   "escala": 1.2,
+   "color": "recursos/texturas/terrazzo_tiles_color.jpg",
+   "normal": "recursos/texturas/terrazzo_tiles_normal.jpg",
+   "rugosidad": "recursos/texturas/terrazzo_tiles_rugosidad.jpg"
+  },
+  "pizarra": {
+   "id": "slate_floor_03",
+   "escala": 1.5,
+   "color": "recursos/texturas/slate_floor_03_color.jpg",
+   "normal": "recursos/texturas/slate_floor_03_normal.jpg",
+   "rugosidad": "recursos/texturas/slate_floor_03_rugosidad.jpg"
+  },
+  "moqueta": {
+   "id": "wool_boucle",
+   "escala": 0.6,
+   "color": "recursos/texturas/wool_boucle_color.jpg",
+   "normal": "recursos/texturas/wool_boucle_normal.jpg",
+   "rugosidad": "recursos/texturas/wool_boucle_rugosidad.jpg"
+  },
+  "pintura": {
+   "id": "white_plaster_02",
+   "escala": 2,
+   "color": "recursos/texturas/white_plaster_02_color.jpg",
+   "normal": "recursos/texturas/white_plaster_02_normal.jpg",
+   "rugosidad": "recursos/texturas/white_plaster_02_rugosidad.jpg"
+  },
+  "ladrillo": {
+   "id": "brick_wall_001",
+   "escala": 2,
+   "color": "recursos/texturas/brick_wall_001_color.jpg",
+   "normal": "recursos/texturas/brick_wall_001_normal.jpg",
+   "rugosidad": "recursos/texturas/brick_wall_001_rugosidad.jpg"
+  },
+  "madera-pared": {
+   "id": "brown_planks_05",
+   "escala": 2,
+   "color": "recursos/texturas/brown_planks_05_color.jpg",
+   "normal": "recursos/texturas/brown_planks_05_normal.jpg",
+   "rugosidad": "recursos/texturas/brown_planks_05_rugosidad.jpg"
+  },
+  "piedra": {
+   "id": "stone_tile_wall",
+   "escala": 2,
+   "color": "recursos/texturas/stone_tile_wall_color.jpg",
+   "normal": "recursos/texturas/stone_tile_wall_normal.jpg",
+   "rugosidad": "recursos/texturas/stone_tile_wall_rugosidad.jpg"
+  },
+  "azulejo-pared": {
+   "id": "square_tiled_wall",
+   "escala": 1,
+   "color": "recursos/texturas/square_tiled_wall_color.jpg",
+   "normal": "recursos/texturas/square_tiled_wall_normal.jpg",
+   "rugosidad": "recursos/texturas/square_tiled_wall_rugosidad.jpg"
+  },
+  "lino": {
+   "id": "rough_linen",
+   "escala": 0.5,
+   "color": "recursos/texturas/rough_linen_color.jpg",
+   "normal": "recursos/texturas/rough_linen_normal.jpg",
+   "rugosidad": "recursos/texturas/rough_linen_rugosidad.jpg"
+  },
+  "terciopelo": {
+   "id": "velour_velvet",
+   "escala": 0.5,
+   "color": "recursos/texturas/velour_velvet_color.jpg",
+   "normal": "recursos/texturas/velour_velvet_normal.jpg",
+   "rugosidad": "recursos/texturas/velour_velvet_rugosidad.jpg"
+  },
+  "boucle": {
+   "id": "wool_boucle",
+   "escala": 0.5,
+   "color": "recursos/texturas/wool_boucle_color.jpg",
+   "normal": "recursos/texturas/wool_boucle_normal.jpg",
+   "rugosidad": "recursos/texturas/wool_boucle_rugosidad.jpg"
+  },
+  "pana": {
+   "id": "ribbed_corduroy",
+   "escala": 0.4,
+   "color": "recursos/texturas/ribbed_corduroy_color.jpg",
+   "normal": "recursos/texturas/ribbed_corduroy_normal.jpg",
+   "rugosidad": "recursos/texturas/ribbed_corduroy_rugosidad.jpg"
+  },
+  "cuero": {
+   "id": "brown_leather",
+   "escala": 0.6,
+   "color": "recursos/texturas/brown_leather_color.jpg",
+   "normal": "recursos/texturas/brown_leather_normal.jpg",
+   "rugosidad": "recursos/texturas/brown_leather_rugosidad.jpg"
+  },
+  "yute": {
+   "id": "hessian_230",
+   "escala": 0.4,
+   "color": "recursos/texturas/hessian_230_color.jpg",
+   "normal": "recursos/texturas/hessian_230_normal.jpg",
+   "rugosidad": "recursos/texturas/hessian_230_rugosidad.jpg"
+  }
+ },
+ "cielos": {
+  "dia": "recursos/texturas/cielo_dia.hdr",
+  "tarde": "recursos/texturas/cielo_tarde.hdr",
+  "noche": "recursos/texturas/cielo_noche.hdr"
+ },
+ "origen": "Poly Haven (polyhaven.com), licencia CC0"
+}
